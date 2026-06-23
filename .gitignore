@@ -1,0 +1,6 @@
+# build artifact
+/macros
+
+# personal macro files (example.amc is tracked)
+*.amc
+!example.amc
